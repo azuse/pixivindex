@@ -1,4 +1,4 @@
-# pixivindex
+# pixivindex 本地图片管理
 <h2>搜图api需要改进</h2>
 <h2>浏览器对大量图片渲染速度较慢，需要另外开发前端</h2>
 <div class="divider"></div>
